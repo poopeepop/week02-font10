@@ -37,4 +37,4 @@ line(0+x*c,-180,0+x*c,0);
 }
 
 
-save("font10,png");
+save("font10.png");
